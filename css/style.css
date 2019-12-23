@@ -43,6 +43,10 @@ figcaption {
   background:url(../images/white-wood.jpg) no-repeat center top;
   background-size: cover;
 }
+
+.ligh-fade{
+  
+}
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
