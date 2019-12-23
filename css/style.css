@@ -94,6 +94,10 @@ background: linear-gradient(
 ); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efefef", endColorstr="#dddddd", GradientType=0); /* IE6-9 */
 }
+
+.medium-fade{
+  
+}
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
